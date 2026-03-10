@@ -12,7 +12,8 @@ The analysis was performed using SQL for querying and Power BI for data visualiz
 
 
 # Dashboard Screenshot:- 
-<img width="1412" height="792" alt="Dashboard" src="https://github.com/user-attachments/assets/a13655e0-0f83-4e4b-ad5a-011509db5e84" />
+<img width="1364" height="772" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/af305a95-5749-461e-a4cc-e56e4eb4a9d8" />
+
 
 
 Tools used in Project:-
