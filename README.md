@@ -1,5 +1,6 @@
 # Customer-Support-Ticket-Analysis
-Customer Support Ticket Analysis using SQL, Pandas and Power BI.
+Tools: SQL | Python | Power BI | Excel
+
 
 Project Overview:-
 
@@ -9,6 +10,7 @@ The objective of the project is to demonstrate how data analytics can help organ
 
 The analysis was performed using SQL for querying and Power BI for data visualization.
 
+
 Tools used in Project:-
 
 • SQL (MySQL Workbench)
@@ -16,6 +18,7 @@ Tools used in Project:-
 • Excel
 • Power BI
 • GitHub
+
 
 Dataset Description:-
 
@@ -33,6 +36,7 @@ Support Agent
 Customer Satisfaction Score
 100 support tickets =rows
 
+
 Project Insights:-
 
 1. Certain regions generate more support tickets indicating higher customer demand.
@@ -45,12 +49,14 @@ Project Insights:-
 
 5. Faster ticket resolution is associated with higher customer satisfaction scores.
 
+
 Project Structure:-
 
 1. customer_support_tickets.csv
 2. support_ticket_analysis.sql
 3. powebidashboard.pbix
 4. readme.md
+
 
 Project Outcome:-
 
