@@ -58,9 +58,11 @@ Project Insights:-
 Project Structure:-
 
 1. customer_support_tickets.csv
-2. support_ticket_analysis.sql
-3. powebidashboard.pbix
-4. readme.md
+2. DataCleaning.ipynb
+3. clean_support_data.csv (cleaned using python)
+4. support_ticket_analysis.sql
+5. powebidashboard1.pbix
+6. readme.md
 
 # Project Workflow:-
 
