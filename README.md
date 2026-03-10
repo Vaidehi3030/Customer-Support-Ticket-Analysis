@@ -11,6 +11,10 @@ The objective of the project is to demonstrate how data analytics can help organ
 The analysis was performed using SQL for querying and Power BI for data visualization.
 
 
+# Dashboard Screenshot:- 
+<img width="1412" height="792" alt="Dashboard" src="https://github.com/user-attachments/assets/a13655e0-0f83-4e4b-ad5a-011509db5e84" />
+
+
 Tools used in Project:-
 
 • SQL (MySQL Workbench)
@@ -56,6 +60,15 @@ Project Structure:-
 2. support_ticket_analysis.sql
 3. powebidashboard.pbix
 4. readme.md
+
+# Project Workflow:-
+
+1. Created dataset of customer support tickets in Excel
+2. Imported dataset into MySQL
+3. Performed data analysis using SQL queries
+4. Cleaned and processed data using Python (Pandas & NumPy)
+5. Built interactive dashboard in Power BI
+6. Generated insights about ticket trends and agent performance
 
 
 Project Outcome:-
