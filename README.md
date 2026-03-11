@@ -44,15 +44,15 @@ Customer Satisfaction Score
 
 Project Insights:-
 
-1. Certain regions generate more support tickets indicating higher customer demand.
+1. North Region generates more support tickets indicating higher customer demand.
 
-2. Specific issue types appear more frequently, suggesting areas where product improvements may be required.
+2. Login issue is the most common issue as is appears frequently , focusing on product improvement. 
 
-3. Average resolution time varies across support agents, indicating differences in performance.
+3. Average Resolution Time is approx 12 hours and Rahul is the agent with highest resolved tickets in less time.
 
 4. High-priority tickets represent a smaller portion of total tickets but require faster resolution.
 
-5. Faster ticket resolution is associated with higher customer satisfaction scores.
+5. Faster ticket resolution leads to higher customer satisfaction scores.
 
 
 Project Structure:-
